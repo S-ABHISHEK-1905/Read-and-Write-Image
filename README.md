@@ -85,7 +85,6 @@ cv.waitKey(0)
 
 ### iii)Shape of the Image
 
-
 ![image](https://user-images.githubusercontent.com/66360846/224539878-fada1a93-87f2-4830-b6fa-5f3b6b97c847.png)
 
 
